@@ -1,10 +1,10 @@
-<img width="1567" height="758" alt="image" src="https://github.com/user-attachments/assets/83aded9a-b217-4be3-86b0-dbb5147d1f83" /># 👋 Hi, I'm Gulam Moinuddin
+# 👋 Hi, I'm Gulam Moinuddin
 
 ### B.Tech CSE (Business Systems) @ VIT Vellore
 
-I'm a Computer Science student interested in **software engineering, AI, computer vision, and building practical systems that solve real-world problems**.
+I'm a Computer Science student interested in **software engineering, AI, computer vision, and web development**, with a focus on turning ideas into practical working systems.
 
-I enjoy turning ideas into working prototypes, experimenting with new technologies, and improving projects through iteration.
+I enjoy building prototypes, experimenting with technologies, solving technical problems, and improving projects through iteration.
 
 > **Learn → Build → Break → Fix → Improve → Repeat.**
 
@@ -14,11 +14,11 @@ I enjoy turning ideas into working prototypes, experimenting with new technologi
 
 - 🎓 B.Tech CSE (Business Systems) student at **VIT Vellore**
 - 💻 Interested in **Software Engineering, AI, Computer Vision & Web Development**
-- 🧠 Building practical projects rather than only learning theory
+- 🧠 Focused on building practical projects and strengthening core CS fundamentals
 - 🚀 Participating in hackathons and technology challenges
-- 🔍 Interested in understanding how systems work and solving technical problems
-- 📚 Currently strengthening my foundations in **DSA, Java, DBMS, Computer Networks and Software Development**
-- 🇮🇳 Based in India
+- 🔍 Interested in understanding how systems work and solving real-world problems
+- 📚 Currently strengthening **DSA, Java, DBMS, Computer Networks and Software Development**
+- 📍 Based in India
 
 ---
 
@@ -41,16 +41,14 @@ I enjoy turning ideas into working prototypes, experimenting with new technologi
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Database & Backend
+### 🗄️ Database
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🤖 AI & Computer Vision
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🔧 Tools
 
@@ -64,13 +62,12 @@ I enjoy turning ideas into working prototypes, experimenting with new technologi
 
 ## 🛡️ WatchGuard Vision
 
-**AI-powered real-time security vision system**
+### AI-powered real-time security vision system
 
-WatchGuard Vision is a computer-vision-based security system designed to identify people, monitor entry events and analyze potentially suspicious activity.
+WatchGuard Vision is a **computer-vision-based security prototype** designed to identify people, monitor entry events, and analyze potentially suspicious activity.
 
-### Key Features
-
-- 👤 Person / face recognition
+**Key capabilities**
+- 👤 Person and face recognition
 - 📷 Camera-based monitoring
 - 🕒 Entry-time logging
 - 🧠 AI-assisted risk analysis
@@ -80,11 +77,9 @@ WatchGuard Vision is a computer-vision-based security system designed to identif
 - 💾 Persistent data storage
 - ⚡ Designed with edge-device deployment in mind
 
-### Technology
+**Technology:** `Python` `OpenCV` `Computer Vision` `AI` `Database` `Raspberry Pi` `Azure`
 
-`Python` `OpenCV` `Computer Vision` `AI` `Database` `Raspberry Pi` `Azure`
-
-This project explores how AI can move beyond simple recognition toward **context-aware security systems**.
+The project explores how AI can move beyond simple recognition toward **context-aware security systems**.
 
 🔗 **Repository:** [WatchGuard Vision](https://github.com/gulammoinuddin132-HUNTER/watchguard_vision)
 
@@ -92,12 +87,11 @@ This project explores how AI can move beyond simple recognition toward **context
 
 ## 🦺 CareGuard-AI
 
-**AI-powered warehouse safety intelligence platform**
+### AI-powered warehouse safety intelligence platform
 
-CareGuard-AI focuses on using computer vision and intelligent analysis to improve workplace safety in warehouse environments.
+CareGuard-AI explores the use of **computer vision and intelligent analysis** to improve workplace safety in warehouse environments.
 
-### Focus Areas
-
+**Focus areas**
 - 👁️ Real-time computer vision
 - 👷 Worker activity / handling analysis
 - ⚠️ Risk detection
@@ -105,11 +99,9 @@ CareGuard-AI focuses on using computer vision and intelligent analysis to improv
 - 📦 Warehouse environment monitoring
 - 🛡️ Proactive damage and incident prevention
 
-### Technology
+**Technology:** `Python` `Computer Vision` `AI`
 
-`Python` `Computer Vision` `AI`
-
-The project explores how computer vision can be applied to **preventive workplace safety rather than only post-incident analysis**.
+The project focuses on the idea of **preventive workplace safety rather than only post-incident analysis**.
 
 🔗 **Repository:** [CareGuard-AI](https://github.com/gulammoinuddin132-HUNTER/CareGuard-AI)
 
@@ -117,12 +109,11 @@ The project explores how computer vision can be applied to **preventive workplac
 
 ## 🚆 India Rail Connect
 
-**Enhanced railway information web application**
+### Enhanced railway information web application
 
-India Rail Connect is an enhanced version of an earlier railway web application that I rebuilt into a more functional prototype with improved usability and additional features.
+India Rail Connect is an **upgraded version of an earlier website**, rebuilt as a more functional working prototype with improved UI, usability, and new features.
 
-### Improvements
-
+**Improvements**
 - 🎨 Improved user interface
 - 🧭 Better navigation and usability
 - 🚆 Railway-focused information
@@ -130,11 +121,9 @@ India Rail Connect is an enhanced version of an earlier railway web application 
 - 📱 Responsive web experience
 - 🔄 Iterative development from the original version
 
-### Technology
+**Technology:** `TypeScript` `React`
 
-`TypeScript` `React` `Web Development`
-
-The project represents my approach of **taking an initial idea, identifying limitations and iteratively turning it into a more functional product**.
+This project represents an iterative approach to development: **build → identify limitations → improve → add functionality → refine the experience**.
 
 🔗 **Repository:** [India Rail Connect](https://github.com/gulammoinuddin132-HUNTER/india-rail-connect)
 
@@ -142,12 +131,11 @@ The project represents my approach of **taking an initial idea, identifying limi
 
 ## 🚌 Parivahan Ease
 
-**A user-friendly platform for essential transportation services**
+### User-friendly platform for transportation services
 
-Parivahan Ease is an academic web prototype designed to organize essential transportation-related services into a simpler and more accessible interface.
+Parivahan Ease is an **academic web prototype** designed to organize essential transportation-related services into a simpler and more accessible interface.
 
-### Features / Focus
-
+**Features**
 - 🚗 Vehicle-related services
 - 🪪 Driving licence services
 - 📝 Vehicle registration information
@@ -155,9 +143,7 @@ Parivahan Ease is an academic web prototype designed to organize essential trans
 - 🎨 User-focused interface
 - 📱 Responsive design
 
-### Technology
-
-`TypeScript` `React` `Web Development`
+**Technology:** `TypeScript` `React`
 
 The project focuses on improving the **discoverability and usability of frequently used transportation services**.
 
@@ -167,34 +153,24 @@ The project focuses on improving the **discoverability and usability of frequent
 
 ## 💼 Local Spot Hires
 
-**Local Job Connector Platform**
+### Local Job Connector Platform
 
-Local Spot Hires is a platform designed to connect local job seekers with small businesses and individuals offering short-term employment opportunities.
+Local Spot Hires is a platform designed to connect **local job seekers with small businesses and individuals offering short-term employment opportunities**.
 
-### Problem
-
+**Problem**
 Many local employment opportunities are informal and difficult to discover through traditional job platforms.
 
-### Solution
-
-A focused platform where users can:
-
-- 🔎 Search for nearby opportunities
-- 📍 Filter jobs by location
-- 💼 Browse different job categories
+**Solution**
+- 🔎 Search for opportunities
+- 📍 Filter by location
+- 💼 Browse job categories
 - 👷 Discover short-term work
-- ⭐ Use profiles / ratings to improve trust
-- 📋 Allow businesses to post opportunities
+- ⭐ Profiles / ratings for trust
+- 📋 Business job posting
 
-### Example Categories
+**Example categories:** `Tutoring` `Café Work` `Electrician` `Plumber` `Cleaning` `Gardening` `Carpentry` `Babysitting`
 
-`Tutoring` `Café Work` `Electrician` `Plumber` `Cleaning` `Gardening` `Carpentry` `Babysitting`
-
-### Technology
-
-`React` `TypeScript` `Supabase` `Web Development`
-
-The project explores how software can connect **local supply and demand for short-term employment**.
+**Technology:** `React` `TypeScript` `Supabase`
 
 🔗 **Repository:** [Local Spot Hires](https://github.com/gulammoinuddin132-HUNTER/local-spot-hires)
 
@@ -202,12 +178,11 @@ The project explores how software can connect **local supply and demand for shor
 
 ## 🎨 Hidden Genius Showcase
 
-**UX / Design Thinking Project**
+### UX / Design Thinking Project
 
-Hidden Genius Showcase focuses on understanding users and translating research insights into a practical digital experience.
+A UX-focused project centered on **understanding users and translating research insights into a practical digital experience**.
 
-### Design Process
-
+**Design process**
 - 👤 User Persona
 - 🗺️ Customer Journey
 - ❤️ Empathy Map
@@ -216,40 +191,44 @@ Hidden Genius Showcase focuses on understanding users and translating research i
 - 🖥️ High-Fidelity Prototype
 - 🔄 Iterative design
 
-The project strengthened my understanding of **user-centered design and product thinking**, not just implementation.
+This project strengthened my understanding of **user-centered design, UX research, and product thinking**.
 
 🔗 **Repository:** [Hidden Genius Showcase](https://github.com/gulammoinuddin132-HUNTER/hidden-genius-showcase)
 
 ---
 
-# 🏆 Hackathons & Challenges
+# 🏆 Hackathons & Research
 
 ## 🆔 UIDAI Data Hackathon 2026
 
-### Migration Pressure Index — MPI
+### Migration Pressure Index (MPI)
 
 A data-driven project using **anonymized Aadhaar enrolment data** to study district-level migration pressure.
 
 The project introduced a **Migration Pressure Index (MPI)** based on the relationship between adult enrolments and child enrolments.
 
-### Goal
+**Goal**
+Identify areas experiencing higher migration pressure and explore how the analysis could support planning for **Aadhaar Seva Kendras and related services**.
 
-Identify areas experiencing higher migration pressure and provide insights that could support planning for **Aadhaar Seva Kendras and related services**.
-
-### Work Involved
-
+**Work involved**
 - Data analysis
 - Age-group analysis
 - District-level comparison
 - Index design
-- Visualization
-- Interpretation of large-scale anonymized data
+- Data visualization
+- Interpretation of anonymized data
 
 ---
 
 ## ⚡ Schneider Hackathon
 
-Participated in a Schneider Electric-focused hackathon and worked collaboratively on developing and presenting a solution to the given problem statement.
+Participated in a Schneider Electric-focused hackathon and worked collaboratively on developing and presenting a technology-based solution for the given problem statement.
+
+---
+
+## 🟦 SAP Hackfest 2026
+
+Participated in the **VIT × SAP Hackfest South & East Region 2026**, collaborating on a technology-based solution and its presentation.
 
 ---
 
@@ -266,35 +245,35 @@ Worked on **WatchGuard**, an AI-powered security vision concept exploring:
 
 ---
 
-# 📚 What I'm Currently Learning
+# 📚 Currently Learning
 
-I'm currently focusing on strengthening my fundamentals rather than collecting technologies.
+I'm focusing on **strengthening fundamentals and applying them through projects**, rather than simply collecting technologies.
 
-### Core Computer Science
+### 🧠 Core Computer Science
 
-- 🧠 Data Structures & Algorithms
-- 💻 Object-Oriented Programming
-- 🗄️ Database Management Systems
-- 🌐 Computer Networks
-- ⚙️ Operating Systems
-- 🔐 Computer & Network Security
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Computer Networks
+- Operating Systems
+- Computer & Network Security
 
-### Development
+### 💻 Development
 
-- ☕ Advanced Java
-- 🌐 Full-Stack Web Development
-- 🗃️ Database Design
-- 🔧 Git & GitHub
-- ☁️ Cloud technologies
-- 🤖 AI & Computer Vision
+- Advanced Java
+- Full-Stack Web Development
+- Database Design
+- Git & GitHub
+- Cloud Technologies
+- AI & Computer Vision
 
 ---
 
 # 🧩 Problem Solving
 
-I'm particularly interested in understanding algorithms and their practical applications.
+I'm interested in understanding algorithms and their practical applications.
 
-Topics I've worked with include:
+**Topics I've worked with / studied**
 
 - Greedy Algorithms
 - Dynamic Programming
@@ -330,7 +309,7 @@ Topics I've worked with include:
         └──────┬───────┘
                ↓
         ┌──────────────┐
-        │    FIX       │
+        │     FIX      │
         └──────┬───────┘
                ↓
         ┌──────────────┐
@@ -338,6 +317,9 @@ Topics I've worked with include:
         └──────┬───────┘
                │
                └──────────→ REPEAT
+```
+
+I believe the best way to learn software development is to **build things, encounter problems, understand why they happen, and improve the solution.**
 
 ---
 
@@ -356,10 +338,10 @@ Topics I've worked with include:
 
 # 🌱 Current Goals
 
-- Build stronger DSA fundamentals
+- Strengthen DSA fundamentals
 - Become more confident with Java
-- Develop production-quality web applications
-- Explore AI and computer vision further
+- Build production-quality web applications
+- Explore AI and Computer Vision further
 - Participate in more hackathons
 - Build projects with real-world impact
 - Prepare for software engineering internships
@@ -369,22 +351,12 @@ Topics I've worked with include:
 
 # 🤝 Let's Connect
 
-I'm always interested in connecting with other students, developers, builders and people working on interesting technology.
+I'm always interested in connecting with students, developers, builders, and people working on interesting technology.
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/gulam-moinuddin-951892333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -396,8 +368,6 @@ I'm always interested in connecting with other students, developers, builders an
 <p align="center">
   ⭐ If you find something interesting in my repositories, feel free to explore, contribute, or share feedback.
 </p>
-
----
 
 <p align="center">
   <b>Thanks for visiting my profile! 👋</b>
