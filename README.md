@@ -323,19 +323,6 @@ I believe the best way to learn software development is to **build things, encou
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulammoinuddin132-HUNTER&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulammoinuddin132-HUNTER&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gulammoinuddin132-HUNTER&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🌱 Current Goals
 
 - Strengthen DSA fundamentals
@@ -356,6 +343,9 @@ I'm always interested in connecting with students, developers, builders, and peo
 <p align="center">
   <a href="https://www.linkedin.com/in/gulam-moinuddin-951892333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gulammoinuddin132-HUNTER">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
