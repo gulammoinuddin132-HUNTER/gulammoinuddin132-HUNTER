@@ -43,7 +43,6 @@ I enjoy building prototypes, experimenting with technologies, solving technical 
 
 ### 🗄️ Database
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🤖 AI & Computer Vision
@@ -223,12 +222,6 @@ Identify areas experiencing higher migration pressure and explore how the analys
 ## ⚡ Schneider Hackathon
 
 Participated in a Schneider Electric-focused hackathon and worked collaboratively on developing and presenting a technology-based solution for the given problem statement.
-
----
-
-## 🟦 SAP Hackfest 2026
-
-Participated in the **VIT × SAP Hackfest South & East Region 2026**, collaborating on a technology-based solution and its presentation.
 
 ---
 
