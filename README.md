@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gulam Moinuddin
+<img width="1567" height="758" alt="image" src="https://github.com/user-attachments/assets/83aded9a-b217-4be3-86b0-dbb5147d1f83" /># 👋 Hi, I'm Gulam Moinuddin
 
 ### B.Tech CSE (Business Systems) @ VIT Vellore
 
@@ -338,3 +338,67 @@ Topics I've worked with include:
         └──────┬───────┘
                │
                └──────────→ REPEAT
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulammoinuddin132-HUNTER&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulammoinuddin132-HUNTER&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gulammoinuddin132-HUNTER&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌱 Current Goals
+
+- Build stronger DSA fundamentals
+- Become more confident with Java
+- Develop production-quality web applications
+- Explore AI and computer vision further
+- Participate in more hackathons
+- Build projects with real-world impact
+- Prepare for software engineering internships
+- Contribute to meaningful open-source projects
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with other students, developers, builders and people working on interesting technology.
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Build something useful. Learn from what breaks. Keep improving."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my repositories, feel free to explore, contribute, or share feedback.
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
